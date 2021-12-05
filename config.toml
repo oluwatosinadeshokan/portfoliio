@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Oluwatosin Adeshokan'
+theme = "hugo-theme-basic"
