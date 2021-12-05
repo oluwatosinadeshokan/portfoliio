@@ -1,4 +1,9 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
+<<<<<<< HEAD
 title = 'Oluwatosin Adeshokan'
 theme = "hugo-theme-basic"
+=======
+title = 'My New Hugo Site'
+theme = "basic"
+>>>>>>> 4e77f8ad9971ae0123b4550689662550608366a3
